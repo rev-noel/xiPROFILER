@@ -66,7 +66,7 @@ Input data should be a tab-separated values (TSV) file with the following struct
 
 | Protein.Group | Protein.Ids | Protein.Names | Genes | Slice_1| Slice_2  | ... |
 |---------------|-------------|---------------|-------|--------|----------|-----|
-| C1P619        | C1P619      | ILVX_ECOLI    | ilvX  | 12345  | 236125   | ... |
+| C1P619        | C1P619      | ILVX_ECOLI    | ilvX  |  12345 |   236125 | ... |
 | P00350        | P00350      | 6PGD_ECOLI    | gnd   | 345256 | 45734734 | ... |
 
 - **Metadata Columns**:
