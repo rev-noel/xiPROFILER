@@ -14,7 +14,7 @@
 
 ## Hosting
 
-xiPROFILER is hosted at: 
+xiPROFILER is hosted and ready to use at: [Shinyapps.io](https://revnoel.shinyapps.io/xiprofiler/)
 
 ## Installation
 
